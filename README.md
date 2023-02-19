@@ -4,7 +4,7 @@ My name is Kamal Shrestha, Data and AI enthusiast.
 
 I am a 2nd year MTech. student in the Department of Computer Science and Engineering at [Indian Institute of Technology Hyderabad (IITH)](iith.ac.in) working under the supervision of [Dr. Maunendra Sankar Desarkar](https://people.iith.ac.in/maunendra/index.html).
 
-![Banner](https://github.com/shresthakamal/home/blob/master/images/gallery/mardi/8.webp)
+![Banner](https://github.com/shresthakamal/home/blob/master/images/gallery/banner.JPG)
 
 
 **Research Interests:**
