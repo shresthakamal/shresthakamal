@@ -2,10 +2,9 @@
 
 My name is Kamal Shrestha, Data and AI enthusiast.
 
-![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=shresthakamal&show_icons=true&theme=dark)
-
-
 I am a 2nd year MTech. student in the Department of Computer Science and Engineering at [Indian Institute of Technology Hyderabad (IITH)](iith.ac.in) working under the supervision of [Dr. Maunendra Sankar Desarkar](https://people.iith.ac.in/maunendra/index.html).
+
+![Banner](https://shresthakamal.com.np/photography/MARDI.html)
 
 
 **Research Interests:**
@@ -16,6 +15,10 @@ Currently, I am also working to develop a heuristic based recommendation engine 
 
 
 You can find more about me here on my website: [shresthakamal.com.np/home](https://shresthakamal.com.np/home/)
+
+
+![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=shresthakamal&show_icons=true&theme=dark)
+
 
 <!--
 **shresthakamal/shresthakamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
