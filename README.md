@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=shresthakamal&show_icons=true&theme=radical)
+![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=shresthakamal&show_icons=true&theme=dark)
 
 
 
