@@ -15,7 +15,7 @@ Currently, I am also working to develop a heuristic based recommendation engine 
 
 Find my CV [here](https://shresthakamal.com.np/home/cv/).
 
-You can find more about me here on my website: [shresthakamal.com.np/home](https://shresthakamal.com.np/home/)
+You can find more about me here on my website: [shresthakamal.com.np/home](https://shresthakamal.com.np)
 
 
 ![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=shresthakamal&show_icons=true&theme=dark)
