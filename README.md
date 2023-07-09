@@ -4,19 +4,10 @@ My name is Kamal Shrestha, Data and AI enthusiast.
 
 I am a 2nd year MTech. student in the Department of Computer Science and Engineering at [Indian Institute of Technology Hyderabad (IITH)](iith.ac.in) working under the supervision of [Dr. Maunendra Sankar Desarkar](https://people.iith.ac.in/maunendra/index.html).
 
-![Banner](https://github.com/shresthakamal/home/blob/master/images/gallery/banner.JPG)
 
+###  SUMMARY
 
-**Research Interests:**
-
-My primary research focuses on conditional language generation for open-domain dialogue systems (chit-chat) using external knowledge integration with the long-term goal of instilling human-like communication, common sense knowledge, and reasoning capabilities in machines.
-
-Currently, I am also working to develop a heuristic based recommendation engine for a jobs recommendation platform that is aimed at providing odd jobs to differently abeled people. The core methodology includes proper user and job profilling for appropriate recommendation.
-
-Find my CV [here](https://shresthakamal.com.np/home/cv/).
-
-You can find more about me here on my website: [shresthakamal.com.np](https://shresthakamal.com.np/home)
-
-
-![Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=shresthakamal&show_icons=true&theme=dark)
-
+• Possess a comprehensive theoretical and practical foundation in machine learning and natural language processing, combined with hands-on experience in research and experimental design methodologies.
+• Proficient in executing the deep learning pipeline encompassing various stages such as data analysis, data cleaning, pre-processing, model design, training, and model evaluation, primarily utilizing PyTorch, Scikitlearn (Sklearn), and other scientific Python libraries to achieve optimal results.
+• Demonstrate excellent teamwork, communication, and writing skills honed through previous industry experience, research publications, poster presentations, and teaching engagements
+• Research Interests: Intersection of applied NLP, DL, and Classical ML Techniques
