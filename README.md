@@ -2,8 +2,11 @@
 
 My name is Kamal Shrestha, Data and AI enthusiast.
 
-I am a 2nd year MTech. student in the Department of Computer Science and Engineering at [Indian Institute of Technology Hyderabad (IITH)](iith.ac.in) working under the supervision of [Dr. Maunendra Sankar Desarkar](https://people.iith.ac.in/maunendra/index.html).
+I have recently completed my two-year Master of Technology (MTech) program offered by the Department of Computer Science and Engineering Department at the prestigious Indian Institute of Technology Hyderabad (IITH). I worked under the supervision of Dr. Maunendra Sankar Desarkar as part of my research endeavors.
 
+I have also worked as an Associate Machine Learning Engineer and Curriculum Engineer at Fusemachines, Nepal from July, 2020 till August 2021, under the supervision of Rojesh Man Shikhakar.
+
+I received my undergraduate B. Tech in Computer Engineering from Kathmandu University (KU) in 2020. I had a great time working with Prof. Dr. Prakash Poudyal and Prof. Dr. Bal Krishna Bal at KU.
 
 ###  SUMMARY
 
