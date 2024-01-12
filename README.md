@@ -1,19 +1,29 @@
 ### Hi there 👋
 
-My name is Kamal Shrestha, Data and AI enthusiast.
+I'm Kamal Shrestha, currently and actively engaged in impactful projects centered around Large Language Models (LLM) and harnessing its powerful generative text capabilities.
 
-I have recently completed my two-year Master of Technology (MTech) program offered by the Department of Computer Science and Engineering Department at the prestigious Indian Institute of Technology Hyderabad (IITH). I worked under the supervision of Dr. Maunendra Sankar Desarkar as part of my research endeavors.
+With a postgraduate degree in Computer Science and Engineering from the Indian Institute of Technology Hyderabad and an undergraduate degree in Computer Engineering from Kathmandu University, I bring over three and a half years of work experience in the AI domain. 
 
-I have also worked as an Associate Machine Learning Engineer and Curriculum Engineer at Fusemachines, Nepal from July, 2020 till August 2021, under the supervision of Rojesh Man Shikhakar.
+I am as pure as a CS student can be.
 
-I received my undergraduate B. Tech in Computer Engineering from Kathmandu University (KU) in 2020. I had a great time working with Prof. Dr. Prakash Poudyal and Prof. Dr. Bal Krishna Bal at KU.
+Having served as a Machine Learning Engineer and Curriculum Engineer in the past, I've cultivated expertise in both applied and theoretical ML, DL, and NLP, not just from a student but also from an instructor's point of view. From data mining and cleaning to model building and deployment, my journey has focused on delivering impactful and tangible results that drive critical business decisions. Currently, my emphasis is on Natural Language Processing, specifically integrating the power of LLMs for optimization and efficiency.
+
+For more insights into my professional journey, visit https://shresthakamal.com.np.
+
+I'm enthusiastic about the potential in NLP and eager to connect with you.
+
 
 ###  SUMMARY
 
-- Possess a comprehensive theoretical and practical foundation in machine learning and natural language processing, combined with hands-on experience in research and experimental design methodologies.
+- Possess a comprehensive theoretical and practical foundation in natural language processing, machine learn-
+ing and deep learning combined with hands-on experience in experimental design methodologies adn applied
+research for business applications.
 
-- Proficient in executing the deep learning pipeline encompassing various stages such as data analysis, data cleaning, pre-processing, model design, training, and model evaluation, primarily utilizing PyTorch, Scikitlearn (Sklearn), and other scientific Python libraries to achieve optimal results.
+- Proficient in executing learning pipeline encompassing various stages such as data extraction, analysis,
+cleaning, pre-processing, modelling, training, and evaluating, and deployment primarily utilizing PyTorch,
+Langchain, Streamlit, Scikit-learn, Transformers and other necessary libraries to achieve optimal results.
 
-- Demonstrate excellent teamwork, communication, and writing skills honed through previous industry experience, research publications, poster presentations, and teaching engagements
+- Demonstrate excellent teamwork, communication, and writing skills honed through multiple years of industry
+experience, academic qualification, research publications, poster presentations, and teaching engagements.
 
-- Research Interests: Intersection of applied NLP, DL, and Classical ML Techniques
+- **Professional Career/Research Interests**: Intersection of applied NLP, DL, and Classical ML Techniques
