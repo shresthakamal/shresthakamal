@@ -31,7 +31,8 @@ experience, academic qualification, research publications, poster presentations,
 
 <div align="center">
 ![Kamal's github stats](https://github-readme-stats.vercel.app/api?username=shresthakamal&count_private=true&show_icons=true&theme=dark)
-</div>div>
+</div>
+
 <div align="center">
   
 <h2>🐍 My Contributions 🐍</h2>
