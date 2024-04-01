@@ -27,3 +27,22 @@ Langchain, Streamlit, Scikit-learn, Transformers and other necessary libraries t
 experience, academic qualification, research publications, poster presentations, and teaching engagements.
 
 - **Professional Career/Research Interests**: Intersection of applied NLP, DL, and Classical ML Techniques
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shresthakamal&" alt="shresthakamal" /></p>
+
+👨 **Profile Stat**
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ghimiresunil.ghimiresunil" alt="Visitors Counter" />
+<br> <br>
+
+
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+<p align="center">
+  <img src="https://github.com/ghimiresunil/ghimiresunil/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+  <br/><br/><br/>
+</div>
