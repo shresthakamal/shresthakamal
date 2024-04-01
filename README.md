@@ -28,21 +28,13 @@ experience, academic qualification, research publications, poster presentations,
 
 - **Professional Career/Research Interests**: Intersection of applied NLP, DL, and Classical ML Techniques
 
-<div align="center">
-  👨 **Profile Stat**
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=shresthakamal.shresthakamal" alt="Visitors Counter" />
-<br> <br>
-![Kamal's github stats](https://github-readme-stats.vercel.app/api?username=shresthakamal&count_private=true&show_icons=true&theme=dark)<a href="https://github.com/shresthakamal"></a>
-</div>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shresthakamal&" alt="shresthakamal" /></p>
-
-
-
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+![Kamal's github stats](https://github-readme-stats.vercel.app/api?username=shresthakamal&count_private=true&show_icons=true&theme=dark)
+</div>div>
+<div align="center">
+  
+<h2>🐍 My Contributions 🐍</h2>
   <br>
 <p align="center">
   <img src="https://github.com/ghimiresunil/ghimiresunil/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
