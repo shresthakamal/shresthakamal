@@ -32,10 +32,12 @@ experience, academic qualification, research publications, poster presentations,
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shresthakamal&" alt="shresthakamal" /></p>
 
 👨 **Profile Stat**
-
+<div align="center">
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ghimiresunil.ghimiresunil" alt="Visitors Counter" />
 <br> <br>
 
+![Kamal's github stats](https://github-readme-stats.vercel.app/api?username=ghimiresunil&count_private=true&show_icons=true&theme=dark)<a href="https://github.com/ghimiresunil">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghimiresunil&layout=compact&theme=dark)](https://github.com/ghimiresunil)</a>
+</div>
 
 
 <div align="center">
