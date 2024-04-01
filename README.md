@@ -51,9 +51,4 @@ experience, academic qualification, research publications, poster presentations,
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shresthakamal&theme=onedark&row=1)](https://github.com/shresthakamal/github-profile-trophy)
 
-
-<h4>My Contributions</h4>
-<img src="https://github.com/ghimiresunil/ghimiresunil/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-
-
 </div>
