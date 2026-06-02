@@ -35,20 +35,3 @@ Langchain, Streamlit, Scikit-learn, Transformers and other necessary libraries t
 experience, academic qualification, research publications, poster presentations, and teaching engagements.
 
 - **Professional Career/Research Interests**: Intersection of applied NLP, DL, and Classical ML Techniques
-
-
-<br>
-
----
-
-<br>
-
-
-
-<div align="center">
-
-![Kamal's github stats](https://github-readme-stats.vercel.app/api?username=shresthakamal&count_private=true&show_icons=true&theme=dark)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shresthakamal&theme=onedark&row=1)](https://github.com/shresthakamal/github-profile-trophy)
-
-</div>
